@@ -11,11 +11,11 @@
 - <b>Example Project</b>
   - [Project Name]GitHubLink)
 
-<h2>For Fun/Passion Projects</h2>
+<h2>⚡ For Fun/Passion Projects</h2>
 - <b>Example Project</b>
   - [Project Name]GitHubLink)
 
- <h1>  Completed Projects <h1>
+ <h1> ✨ Completed Projects <h1>
   <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Example Project</b>
@@ -26,7 +26,7 @@
 - <b>Example Project</b>
   - [Project Name]GitHubLink)
 
-<h2>For Fun/Passion Projects</h2>
+<h2>⚡For Fun/Passion Projects</h2>
 - <b>Example Project</b>
   - [Project Name]GitHubLink)
 
